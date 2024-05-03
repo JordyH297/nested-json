@@ -1,0 +1,52 @@
+{
+  "user": {
+    "name": {
+      "first": "John",
+      "last": "Doe"
+    },
+    "contact": {
+      "email": "test@dev.com",
+      "phone": {
+        "home": "123-456-7890",
+        "work": "098-765-4321"
+      }
+    }
+  },
+  "education": {
+    "highSchool": {
+      "name": "Some High School",
+      "year": "2018"
+    },
+    "university": {
+      "undergraduate": {
+        "name": "Some State University",
+        "year": "2022"
+      },
+      "postgraduate": {
+        "name": "Some Grad University",
+        "year": "2024"
+      }
+    }
+  },
+  "employment": {
+    "current": {
+      "position": "Software Developer",
+      "department": {
+        "name": "Development",
+        "manager": {
+          "name": "Jane Doe"
+        }
+      }
+    },
+    "previous": [
+      {
+        "position": "Junior Developer",
+        "year": "2024"
+      },
+      {
+        "position": "Intern",
+        "year": "2020"
+      }
+    ]
+  }
+}
